@@ -1,0 +1,23 @@
+{
+  "name": "creative-exercise-maeve-norton",
+  "version": "1.0.0",
+  "description": "Creative Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs4241-c25/creative-exercise-Maeve-Norton.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs4241-c25/creative-exercise-Maeve-Norton/issues"
+  },
+  "homepage": "https://github.com/cs4241-c25/creative-exercise-Maeve-Norton#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
