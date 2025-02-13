@@ -1,5 +1,5 @@
 ## Creative Exercise: SVG
-- Glitch Link: 
+- Glitch Link: https://creative-exercise-maeve-norton.glitch.me/
 - The topic I chose to do is SVG animation.
 - The example my code is based on is the SVG Script for Animation example from the following webpage. https://www.w3schools.com/graphics/svg_scripting.asp 
 - The changes I made to my code are that I put the <script> part of the code into a main.js, therefore in the index.html I added <script src="js/main.js"></script>. I also changed what shape and color was used in the animation. It was a red circle, now it is a green square.
